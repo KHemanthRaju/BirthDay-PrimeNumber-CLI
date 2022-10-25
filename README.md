@@ -1,5 +1,6 @@
 # BirthDay-PrimeNumber-CLI
 Creating a CLI app to check whether the user's birthday is a prime number or not.
+
 Tech Stack : Javascript
 <br></br>
 Preview :
